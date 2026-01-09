@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "brain",
+      "description": "AI brain artwork with gradient colors",
+      "imageUrl": "https://images.unsplash.com/photo-1634618948828-aa7b3d0724fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHwzZCUyMHJlbmRlciUyMGFic3RyYWN0fGVufDB8fHx8MTc2MzE1MzY3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "3d render abstract"
+    },
+    {
+      "id": "avatar",
+      "description": "User profile picture",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjMxNDEzMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "eeg_headset",
+      "description": "EEG Headset device",
+      "imageUrl": "https://images.unsplash.com/photo-1741770067276-a10e15ff5197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxFRUclMjBoZWFkc2V0fGVufDB8fHx8MTc2MzE1NTkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "EEG headset"
+    },
+    {
+      "id": "smartwatch",
+      "description": "Smartwatch device",
+      "imageUrl": "https://images.unsplash.com/photo-1434494343833-76b479733705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWFydHdhdGNofGVufDB8fHx8MTc2MzA5ODc4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartwatch"
+    },
+    {
+      "id": "heart_rate_monitor",
+      "description": "Heart Rate Monitor device",
+      "imageUrl": "https://images.unsplash.com/photo-1725859189283-eaeb03a0a1c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoZWFydCUyMG1vbml0b3J8ZW58MHx8fHwxNzYzMTU1OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heart monitor"
+    },
+    {
+      "id": "smart_ring",
+      "description": "Smart Ring device",
+      "imageUrl": "https://images.unsplash.com/photo-1744697307482-0f55e2e0c1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMHJpbmd8ZW58MHx8fHwxNzYzMTU1OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart ring"
+    },
+    {
+      "id": "oura_ring",
+      "description": "Oura Ring device",
+      "imageUrl": "https://images.unsplash.com/photo-1728999846975-955726d8e443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvdXJhJTIwcmluZ3xlbnwwfHx8fDE3NjMxNTU5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oura ring"
+    },
+    {
+      "id": "fitbit",
+      "description": "Fitbit Sense device",
+      "imageUrl": "https://images.unsplash.com/photo-1503328427499-d92d1ac3d174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmaXRiaXR8ZW58MHx8fHwxNzYzMTU1OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitbit"
+    },
+    {
+      "id": "google_fit",
+      "description": "Google Fit logo",
+      "imageUrl": "https://images.unsplash.com/photo-1572059002053-8cc5ad2f4a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z29vZ2xlJTIwZml0fGVufDB8fHx8MTc2MzE1NTkzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "google fit"
+    },
+    {
+      "id": "apple_health",
+      "description": "Apple Health logo",
+      "imageUrl": "https://images.unsplash.com/photo-1751967248158-4ada30f24ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhcHBsZSUyMGhlYWx0aHxlbnwwfHx8fDE3NjMxNTU5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apple health"
+    }
+  ]
+}
